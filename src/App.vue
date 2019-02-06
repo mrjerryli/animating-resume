@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by https://www.finen.top
-* 大家好，我是finen
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
+* 大家好，我是jerry
+* 有事年初了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
 
@@ -115,34 +115,36 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `何凤恩
+        fullMarkdown: `李加廷
 ----
 
-后端Java开发工程师，Python开发。
+后端Java开发工程师，全栈开发工程师。
 
 技能
 ----
 
 * Java后端开发
-* Python后端开发
+* MySQL、SqlServer
+* 微信小程序
 * Node.js 开发
 * Vue.js
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+* 近期
+1. [上海闰知网络科技有限公司](http://www.sino-runzhi.com)
+2. [上海魔拼科技有限公司](https://www.mopinlive.com/)
+
 
 链接
 ----
 
-* [GitHub](https://github.com/hirCodd)
-* [我的Blog](https://www.finen.top)
+* [GitHub](https://github.com/mrjerryli)
+* [码云](https://gitee.com/ljtJerry)
+* [我的博客](https://www.lijiating.online/myblog/)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/hirCodd/animating-resume.git)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/mrjerryli/animating-resume)，打造你自己的简历！
 
 `
       }
