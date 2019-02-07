@@ -14,12 +14,11 @@ cd public
 
 git init
 git add -A
-git commit -m "update"
+git commit -m "简历更新"
 #git push
 # 如果发布到 https://<USERNAME>.github.io
 #git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-
+git push -f https://github.com/mrjerryli/mrjerryli.github.io.git/jerry-animating-resume/public/ master
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:mrjerryli/myResume.git master:gh-pages
-
+# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 cd -
