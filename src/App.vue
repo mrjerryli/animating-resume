@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by https://www.finen.top
-* 大家好，我是jerry
-* 有事年初了，好多公司都在招聘，你是不是也在准备简历呀。
+* 大家好，我是李加廷，可以叫我jerry
+* 新的一年开始了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
 
@@ -118,24 +118,46 @@ html{
         fullMarkdown: `李加廷
 ----
 
-后端Java开发工程师，全栈开发工程师。
+后端开发工程师
+现任 [魔拼网络科技](https://www.mopinlive.com/)
+
+----
+
+* 邮箱: mrjerryli@yeah.net
+* 工作年限: 4年
+* 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+* 期望城市：上海
+
+岗位
+----
+
+* 后端Java开发工程师，
+* 全栈开发工程师。
 
 技能
 ----
 
 * Java后端开发
-* MySQL、SqlServer
-* 微信小程序
+* MySQL、SqlServer数据库
 * Node.js 开发
-* Vue.js
+* Vue.js前端开发
+* 微信小程序
+* app混合开发
+
+
+联系方式
+----
+
+* 手机或同微信: 18645108522
+* Email: mrjerryli@yeah.net
+* QQ: 653942945
 
 工作经历
 ----
 
-* 近期
 1. [上海闰知网络科技有限公司](http://www.sino-runzhi.com)
-2. [上海魔拼科技有限公司](https://www.mopinlive.com/)
-
+2. [上海魔拼科技有限公司](https://www.mopinlive.com)
+3. 有其他外包公司，就不一一介绍了···
 
 链接
 ----
@@ -144,7 +166,6 @@ html{
 * [码云](https://gitee.com/ljtJerry)
 * [我的博客](https://www.lijiating.online/myblog/)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/mrjerryli/animating-resume)，打造你自己的简历！
 
 `
       }
