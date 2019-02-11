@@ -23,7 +23,7 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
+* Inspired by https://www.lijiating.online/myblog/
 * 大家好，我是李加廷，可以叫我jerry
 * 新的一年开始了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
